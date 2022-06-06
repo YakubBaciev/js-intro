@@ -1,0 +1,22 @@
+let age = 29
+let birthYear = 1993
+let birtNumber = 25
+let brothers = 1
+let sister = 5
+let familySize = 9
+let costOfTransportation = 200
+let thisYear = 2022
+let dollarRate = 65
+let euroRate = 68
+let bitcoinRate = 30000
+
+let myAge = thisYear - birthYear
+let myBirthYear = thisYear - birtNumber
+let brothersSister = brothers + sister
+let thousandEuros = euroRate * 1000
+let dollarRateMultiply25 = dollarRate * 25
+let bitcoinRateDivide10000 = bitcoinRate / 10000
+let costOfTransportationDivideDollarRate = costOfTransportation /dollarRate
+let parents = familySize - brothers - sister
+let zeroDivideAge = 0 / age
+let thirtyFiveMinusAge = 35 - age
